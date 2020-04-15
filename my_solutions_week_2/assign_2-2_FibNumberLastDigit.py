@@ -1,3 +1,4 @@
+# Author: Murray MacKenzie
 # Exercise 2-2: Last Digit of Large Fibonacci Number
 
 def FibNumberLastDigit(n):

@@ -1,3 +1,4 @@
+# Author: Murray MacKenzie
 # Exercise 2-1: Fibonacci Number
 
 def FibNumber(n):

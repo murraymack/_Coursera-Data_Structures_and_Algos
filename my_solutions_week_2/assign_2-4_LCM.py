@@ -1,4 +1,5 @@
-# Exercise 2-4 Least Common Multiple
+# Author: Murray MacKenzie
+# Exercise 2-4: Least Common Multiple
 
 def LCM(a, b):
 

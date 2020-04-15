@@ -1,3 +1,6 @@
+# Author: Murray MacKenzie
+# Exercise 2-3: Euclidean Greatest Common Divisor
+
 def EuclidGCD(a, b):
 
     a_temp = int(a)
